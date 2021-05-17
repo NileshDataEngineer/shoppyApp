@@ -1,2 +1,2 @@
 # shoppyApp
-asdf
+Electronics shopping app in python
