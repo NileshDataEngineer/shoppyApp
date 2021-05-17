@@ -1,0 +1,74 @@
+{
+    "headphones": {
+        "boat": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 377,
+            "price": 500
+        },
+        "skullcandy": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 397,
+            "price": 600
+        }
+    },
+    "tablets": {
+        "samsung": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 28,
+            "price": 25000
+        },
+        "lenovo": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 45,
+            "price": 20000
+        }
+    },
+    "mobile phones": {
+        "redmi": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 99,
+            "price": 20000
+        },
+        "oneplus": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 19,
+            "price": 40000
+        }
+    },
+    "laptops": {
+        "asus": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 39,
+            "price": 60000
+        },
+        "hp": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 50,
+            "price": 50000
+        }
+    },
+    "accessories": {
+        "charger": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 494,
+            "price": 100
+        },
+        "usb cable": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 1000,
+            "price": 100
+        }
+    },
+    "monitors": {
+        "dell": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 8,
+            "price": 20000
+        },
+        "acer": {
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+            "quantity": 12,
+            "price": 16000
+        }
+    }
+}
